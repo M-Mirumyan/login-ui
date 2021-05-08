@@ -1,0 +1,13 @@
+body {
+    background: #dfdfdf52;
+}
+.center {
+    display: grid;
+    place-items: center;
+}
+.m-t-10 {
+    margin-top: 10%;
+}
+.m-t-10-px {
+    margin-top: 10px;
+}
